@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "82a4ac4a-9de0-44fb-a028-fc99b939d6ca",
+  "name": "bak/outside",
+  "symbol": "bg_bak_outside",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "bak/outside.png",
+  "tileColors": ""
+}

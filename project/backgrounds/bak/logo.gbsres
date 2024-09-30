@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "6642fbcd-b13b-4b67-bdb7-156a93f540a6",
+  "name": "bak/logo",
+  "symbol": "bg_bak_logo",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "bak/logo.png",
+  "tileColors": ""
+}

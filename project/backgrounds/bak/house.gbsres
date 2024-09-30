@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0b02a119-1b05-40cb-a747-18a2840525fc",
+  "name": "bak/house",
+  "symbol": "bg_bak_house",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "bak/house.png",
+  "tileColors": ""
+}

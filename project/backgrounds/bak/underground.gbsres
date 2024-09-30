@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "41f287ab-e0a8-465e-87d2-9f5c27f16db8",
+  "name": "bak/underground",
+  "symbol": "bg_bak_underground",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "bak/underground.png",
+  "tileColors": ""
+}
