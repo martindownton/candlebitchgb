@@ -27,7 +27,8 @@
         "condition": {
           "type": "variable",
           "value": "1"
-        }
+        },
+        "__collapse": false
       },
       "children": {
         "true": [
@@ -35,7 +36,10 @@
             "id": "a991435c-89ad-4303-b6f0-a18054cc0ea7",
             "command": "EVENT_TEXT",
             "args": {
-              "text": "I guess it was a\nmisunderstanding."
+              "text": [
+                "Do you know\nthe CANDLEBITCH"
+              ],
+              "__collapse": true
             }
           },
           {
@@ -47,6 +51,23 @@
                 "type": "true"
               }
             }
+          },
+          {
+            "command": "EVENT_SWITCH_SCENE",
+            "args": {
+              "sceneId": "8a52b387-2a88-4741-8d4e-ca56acea4672",
+              "x": {
+                "type": "number",
+                "value": 0
+              },
+              "y": {
+                "type": "number",
+                "value": 0
+              },
+              "direction": "",
+              "fadeSpeed": "2"
+            },
+            "id": "70f63265-f099-4128-b5ec-6f4651daf4f2"
           }
         ],
         "false": [
@@ -54,7 +75,9 @@
             "id": "1063f8a8-90b7-4126-b6e4-1daf7c359c87",
             "command": "EVENT_TEXT",
             "args": {
-              "text": "What is that guy\nlooking at?"
+              "text": [
+                "Do you know which\nwitch is which?"
+              ]
             }
           },
           {

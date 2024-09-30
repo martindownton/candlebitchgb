@@ -23,7 +23,13 @@
       "id": "149845e1-e0b4-4a2e-97e3-4a59c8bc2634",
       "command": "EVENT_TEXT",
       "args": {
-        "text": "Welcome to\nGBStudio!"
+        "text": [
+          "Beware!\nVenture too far...",
+          "and you may face...",
+          "... the wrath of\nthe CANDLEBITCH"
+        ],
+        "__section": "text",
+        "closeButton": "any"
       }
     }
   ],

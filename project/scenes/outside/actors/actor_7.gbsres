@@ -23,7 +23,11 @@
       "id": "b1c3d75d-d579-47af-8f3e-4cd96178fbb0",
       "command": "EVENT_TEXT",
       "args": {
-        "text": "Check out this\nsweet duck!"
+        "text": [
+          "Check out this\ntrippy duck!",
+          "I think he's been\nsnacking on...",
+          "... The Devils\nParsley"
+        ]
       }
     },
     {

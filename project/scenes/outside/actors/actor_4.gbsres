@@ -23,7 +23,11 @@
       "id": "137799a4-c0db-46dd-91c9-36c0e5386e3d",
       "command": "EVENT_TEXT",
       "args": {
-        "text": "Have you seen my\ncat anywhere?"
+        "text": [
+          "Have you seen\nmy cat?",
+          "I fear she has\nbeen taken...",
+          "...by an\nevil entity"
+        ]
       }
     },
     {
@@ -43,7 +47,12 @@
             "id": "a36892fc-7718-4107-b5b5-07b6c5eea254",
             "command": "EVENT_TEXT",
             "args": {
-              "text": "He's by the house?\nThank you!"
+              "text": [
+                "She's by the house?\nThank you!",
+                "I thought\nfor sure...",
+                "she'd been\ntaken...",
+                "...by the\nCANDLEBITCH"
+              ]
             }
           },
           {

@@ -26,7 +26,8 @@
       "id": "4434a78c-23e6-464a-9b03-916b537343e9",
       "command": "EVENT_GROUP",
       "args": {
-        "__label": "Fix Game Breaking Bug"
+        "__label": "Fix Game Breaking Bug",
+        "__collapse": false
       },
       "children": {
         "true": [
