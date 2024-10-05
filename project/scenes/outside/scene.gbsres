@@ -13,7 +13,7 @@
   "tilesetId": "",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "autoFadeSpeed": 1,
+  "autoFadeSpeed": 3,
   "script": [
     {
       "command": "EVENT_CALL_CUSTOM_EVENT",

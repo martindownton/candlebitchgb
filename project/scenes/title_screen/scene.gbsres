@@ -55,7 +55,7 @@
       "id": "19a94599-0006-4e3f-9049-c5087d230ed8",
       "command": "EVENT_LOOP",
       "args": {
-        "__collapse": true
+        "__collapse": false
       },
       "children": {
         "true": [
@@ -86,7 +86,7 @@
                   "id": "a5dddc76-e5fe-424a-9b2b-1ad1834acefb",
                   "command": "EVENT_SWITCH_SCENE",
                   "args": {
-                    "sceneId": "94c18861-b352-4f49-a64d-52f2e3415077",
+                    "sceneId": "abe60d38-165b-4b4d-95e1-f03952cecca7",
                     "x": {
                       "type": "number",
                       "value": 27
