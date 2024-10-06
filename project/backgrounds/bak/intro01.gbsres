@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "ccc36f0f-97ec-4175-9146-aa327884c51e",
+  "name": "bak/intro01",
+  "symbol": "bg_intro01",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "bak/intro01.png",
+  "tileColors": ""
+}

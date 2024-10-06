@@ -3,7 +3,7 @@
   "id": "abe60d38-165b-4b4d-95e1-f03952cecca7",
   "_index": 8,
   "name": "Intro1",
-  "backgroundId": "ccc36f0f-97ec-4175-9146-aa327884c51e",
+  "backgroundId": "d155924c-f631-4b2c-a90c-105eaa81c7e9",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -13,8 +13,8 @@
   "collisions": "00168+",
   "autoFadeSpeed": 1,
   "symbol": "scene_9",
-  "x": 60,
-  "y": 696,
+  "x": 464,
+  "y": 32,
   "script": [
     {
       "command": "EVENT_ACTOR_DEACTIVATE",

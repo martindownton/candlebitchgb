@@ -1,20 +1,20 @@
 {
   "_resourceType": "scene",
-  "id": "691417a2-955c-400a-9635-e1ec4ea19a67",
-  "_index": 9,
-  "name": "Intro2",
-  "backgroundId": "fced9ed4-7774-4461-b382-eae870a6835f",
+  "id": "206f573b-1c1a-464b-85c7-5506eb52291e",
+  "_index": 12,
+  "name": "QR Code",
+  "backgroundId": "0af16b2a-d19c-4227-b2d5-7ceb4aa5b1ae",
   "tilesetId": "",
   "width": 20,
   "height": 18,
   "type": "LOGO",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "00168+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_10",
-  "x": 644,
-  "y": 32,
+  "symbol": "scene_13",
+  "x": 96,
+  "y": 216,
   "script": [
     {
       "command": "EVENT_ACTOR_DEACTIVATE",
@@ -22,7 +22,7 @@
         "actorId": "$self$",
         "__collapse": true
       },
-      "id": "02764dc5-c5ff-455b-8806-1f18b2d7e0bc"
+      "id": "83af4c03-c5af-43c8-8c52-7d11da3d2965"
     },
     {
       "command": "EVENT_AWAIT_INPUT",
@@ -30,21 +30,21 @@
         "input": [
           "a",
           "b",
+          "start",
+          "select",
           "left",
           "up",
           "down",
-          "right",
-          "start",
-          "select"
+          "right"
         ],
         "__collapse": true
       },
-      "id": "bb2c9586-f854-45e4-82d3-64ab78fdd341"
+      "id": "d30eef3e-4924-454a-8a06-820ecede3a96"
     },
     {
       "command": "EVENT_SWITCH_SCENE",
       "args": {
-        "sceneId": "95d280ef-a83b-4107-83e5-a76ff911e3fc",
+        "sceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
         "x": {
           "type": "number",
           "value": 0
@@ -57,7 +57,7 @@
         "fadeSpeed": "2",
         "__collapse": true
       },
-      "id": "ae5a5de4-94b2-484f-93e5-2c5ef734634a"
+      "id": "8a2610c8-8c4a-4b87-b769-0feb4cc23d86"
     }
   ],
   "playerHit1Script": [],

@@ -1,12 +1,12 @@
 {
   "_resourceType": "background",
-  "id": "fced9ed4-7774-4461-b382-eae870a6835f",
-  "name": "intro02",
-  "symbol": "bg_intro02_0",
+  "id": "0af16b2a-d19c-4227-b2d5-7ceb4aa5b1ae",
+  "name": "qr-code",
+  "symbol": "bg_qr_code",
   "width": 20,
   "height": 18,
   "imageWidth": 160,
   "imageHeight": 144,
-  "filename": "intro02.png",
+  "filename": "qr-code.png",
   "tileColors": ""
 }
